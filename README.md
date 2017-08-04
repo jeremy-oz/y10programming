@@ -45,7 +45,10 @@
 
 [Lab 08]()
 
-* 
+* Project planning (FOSS)
+* Licensing
+* Plans to find an IT job
+
 
 [Lab 09]()
 
