@@ -21,10 +21,12 @@
 
 [Lab 04]()
 
- * python turtle 
+ * python graphic user interface (GUI) module
+ * python time and random module
  * Conditional statement / Flow control
  * Loops
- * more data types: lists and dictionaries
+ * data types: lists
+ * functions: range
  
  
 [Lab 05]()
