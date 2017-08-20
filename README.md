@@ -19,44 +19,47 @@
  * more about print(): escape like '\n', '='*80
   
 
-[Lab 04]()
+[Lab 04](Lab04/Three%20Pillars%20and%20GUI.ipynb)
 
  * python graphic user interface (GUI) module
  * python time and random module
+
+
+[Lab05]()
+ * Draw with variables
  * Conditional statement / Flow control
  * Loops
  * data types: lists
  * functions: range
  
- 
-[Lab 05]()
+[Lab ]()
 
  * tkinter basics
  * create functions
  * string manipulations
  
-[Lab 06]()
+[Lab ]()
 
 * OOP: class
 * Networking / Hardware
 
-[Lab 07]()
+[Lab ]()
 
 * Algorithms: sorting
 * Life of game?
 
-[Lab 08]()
+[Lab ]()
 
 * Project planning (FOSS)
 * Licensing
 * Plans to find an IT job
 
 
-[Lab 09]()
+[Lab ]()
 
 * Data Visualisation
 
-[Lab 10]()
+[Lab ]()
 * Optional topics
 * Catach up
 * Prepare tools for projects
