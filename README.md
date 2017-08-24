@@ -25,14 +25,14 @@
  * python time and random module
 
 
-[Lab05 - CAT1 25 squares](Lab05/abstraction.ipynb)
+[Lab05 - Loopy](Lab05/loopy.ipynb)
  * Draw with variables
  * Conditional statement / Flow control
  * Loops
  * data types: lists
  * functions: range
  
-[Lab ]()
+[Lab06 - Python for Art]()
 
  * tkinter basics
  * create functions
