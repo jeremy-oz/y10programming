@@ -25,7 +25,7 @@
  * python time and random module
 
 
-[Lab05 - CAT1 25 squares](abstraction.ipynb)
+[Lab05 - CAT1 25 squares](Lab05/abstraction.ipynb)
  * Draw with variables
  * Conditional statement / Flow control
  * Loops
