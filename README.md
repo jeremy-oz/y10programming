@@ -19,13 +19,13 @@
  * more about print(): escape like '\n', '='*80
   
 
-[Lab 04](Lab04/Three%20Pillars%20and%20GUI.ipynb)
+[Lab 04 - Robot face](Lab04/Three%20Pillars%20and%20GUI.ipynb)
 
  * python graphic user interface (GUI) module
  * python time and random module
 
 
-[Lab05]()
+[Lab05 - CAT1 25 squares](Lab05/abstraction.ipynb)
  * Draw with variables
  * Conditional statement / Flow control
  * Loops
