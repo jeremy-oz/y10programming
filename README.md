@@ -32,7 +32,7 @@
  * data types: lists
  * functions: range
  
-[Lab06 - Python for Art]()
+[Lab06 - Get funky](Lab06/getfunky.ipynb)
 
  * tkinter basics
  * create functions
