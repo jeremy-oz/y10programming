@@ -1,0 +1,10 @@
+h1 {
+  color: blue;
+  background-image: url("https://c402277.ssl.cf1.rackcdn.com/photos/2842/images/hero_small/shutterstock_12730534.jpg?1352150501") ;
+}
+
+h1.dotted {border-style: dotted;}
+
+p {
+    font-family: "Arial", Times, serif;
+}
