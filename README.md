@@ -38,15 +38,15 @@
  * create functions
  * string manipulations
  
-[Lab ]()
-
-* OOP: class
-* Networking / Hardware
-
-[Lab ]()
-
+[Lab07 - TBA]()
 * Algorithms: sorting
 * Life of game?
+* Networking / Hardware
+
+[Lab08](Lab08/)
+* [OOP1: Fundamental concepts + Quiz](Lab08/OOP1.ipynb)
+* [OOP2: Start OOP by building rooms](Lab08/OOP2.ipynb)
+
 
 [Lab ]()
 
