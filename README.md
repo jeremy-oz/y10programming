@@ -44,7 +44,7 @@
 * Networking / Hardware
 
 [Lab08](Lab08/)
-* [OOP1: fundamental concepts](Lab08/OOP1.ipynb)
+* [OOP1: Fundamental concepts + Quiz](Lab08/OOP1.ipynb)
 * [OOP2: Start OOP by building rooms](Lab08/OOP2.ipynb)
 
 
