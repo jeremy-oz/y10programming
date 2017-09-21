@@ -14,7 +14,7 @@ class Room():
         print("-" * len(self.name))
         print(self.description)
         for direction in self.linked_rooms:
-            print( "The " + self.linked_rooms[direction].name+ " is " + direction)
+            print( "The " + self.linked_rooms[direction].name + " is " + direction)
 
     def move(self, direction):
         if direction in self.linked_rooms:
