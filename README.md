@@ -50,9 +50,15 @@
 
 # Term 4 Projects:
 
+## Database
+
+* [SQL Basic](https://www.khanacademy.org/computing/computer-programming/sql)
+* Create a database for your shop
+
 ## Student Lead Project
 
-* Choices: First come first serve.
+
+Future options:
 
  - You like to play and create arcade games. Prefect for gamers: [Pygame Zero](https://pygame-zero.readthedocs.io/en/stable/)
  - You love to use little devices to take over the world. Perfect for a maker: [GPIO Zero](https://gpiozero.readthedocs.io/en/stable/)
@@ -60,36 +66,6 @@
  - You want to be the centre of all businesses. Perfect for a keeper. [Databases](https://groklearning.com/course/intro-sql-1/)
  - You can make life pretty and easy. Perfect for an artist. [WebForms](http://raspberrywebserver.com/cgiscripting/web-forms-with-python.html)
 
-
-* Tasks and Assessments:
- 1. Research with or without help from the teacher. 25%
- 1. Create working code for a small thing. 25%
- 1. Present your research and working code. 25%
- 1. Help your peers to run your code successfully. 25%
- 1. You can do it alone or with a partner.
-
-
-[Project 1]
-
-[Project 2]
-
-[Project 3]
-
-[Project 4]
-
-[Project 5]
-
-[Final Project]
-- Find a real life problem you want to solve.
-- Your journey is more important than the final result.
-
-## Teacher Lead Project
-
-* Data Visualisation
-
-Use jupyter-notebook
-
-* Web Programming in Python
 
 Use pythonanywhere.com
 
