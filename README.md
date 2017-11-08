@@ -48,14 +48,17 @@
 * [OOP2: Start OOP by building rooms](Lab08/OOP2.ipynb)
 
 
-# Term 4 Projects:
+# Final Projects:
 
 ## Database
 
 * [SQL Basic](https://www.khanacademy.org/computing/computer-programming/sql)
 * Create a database for your shop
 
-## Student Lead Project
+## [Google Web Designer Project](webpro2)
+
+
+## Project ideas
 
 
 Future options:
