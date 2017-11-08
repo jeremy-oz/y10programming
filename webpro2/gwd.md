@@ -9,7 +9,7 @@
 
 * [Download Google Web Designer](https://www.google.com.au/webdesigner/)
 * [Make a Cool Logo](http://coollogo.com)
-* [Find pictures](## Where to find pictures)
+* [Find pictures](#where_pics)
 
 # Lessons
 
@@ -22,7 +22,7 @@
 
 # Lesson 1
 
-## Where to find pictures
+## <a name="where_pics">Where to find pictures</a>
 
 You probably know better than me in finding nice pictures but one thing to consider is that: 
     
